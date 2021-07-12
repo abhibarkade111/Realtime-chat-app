@@ -2,7 +2,7 @@
 
 ![Realtime chat app](https://github.com/abhibarkade111/Realtime-chat-app/blob/master/screenshot1.png?raw=true)
 
-![Realtime chat app](https://github.com/abhibarkade111/Realtime-chat-app/blob/master/screenshot1.png?raw=true)
+![Realtime chat app](https://github.com/abhibarkade111/Realtime-chat-app/blob/master/screenshot2.png?raw=true)
 
 
 
